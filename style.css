@@ -49,7 +49,6 @@ h1 {
   background-color: #ebebeb;
   margin-top: 10px;
   margin-bottom: 10px;
-  float: left;
   margin-right: 10px;
   flex-grow: 3;
 
@@ -76,10 +75,5 @@ h1 {
   background-color: #ebebeb;
   margin-top: 10px;
   margin-bottom: 10px;
-  float: right;
   flex-grow: 2;
-}
-
-.footer {
-
 }
