@@ -10,7 +10,7 @@ body {
   font-size: 18px;
   text-align: center;
   line-height: 50px;
-  color: #7b7b7b;
+  color: #777;
 }
 
 h1 {
@@ -27,12 +27,6 @@ h1 {
 
 .block>p {
   line-height: 100px;
-}
-
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
 }
 
 .content {
@@ -55,18 +49,18 @@ h1 {
 }
 
 .article {
-  background-color: grey;
+  background-color: #777;
   margin: 10px;
   height: 69%;
 }
 
 .article>p {
-  color: white;
+  color: #ebebeb;
 }
 
 .inside  {
   margin: 10px;
-  background-color: white;
+  background-color: #ebebeb;
   height: 26%;
 }
 
