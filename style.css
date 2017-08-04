@@ -36,7 +36,7 @@ h1 {
 
 .content {
   width: 80vw;
-  max-width: 100%;
+  max-width: 960px;
   height: 250px;
   margin: 10px auto 10px auto;
   display: flex;
