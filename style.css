@@ -1,6 +1,6 @@
 
 
-/*I'd probably not use CSS3 variables, but instead use SASS since support is bad*/
+/*If this were for production code, I'd probably not use CSS3 variables, but instead use SASS since support is bad*/
 :root {
   --grey: #777;
   --white: #ebebeb
